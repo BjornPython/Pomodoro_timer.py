@@ -3,8 +3,8 @@ import datetime
 
 FONT = ("Courier")
 DARK_GRAY = "#3d3d3d"
-Focus_Time = 5
-Break_Time = 3
+Focus_Time = 1500
+Break_Time = 300
 counting_down = False
 reps = -1
 Timer = ""
